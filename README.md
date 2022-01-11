@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mathieualary
 - 👀 I’m interested in bash shell angular javascript java 
-- 🌱 I’m currently learning Python, calcul integral, factorisation
+- 🌱 I’m currently try learning Python
 
 
 
